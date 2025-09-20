@@ -1,6 +1,6 @@
 
 
-# PyTerminal 🚀
+# PyTerminal 
 
 A **Python-powered terminal** that works like a real system terminal. Run commands, manage files, monitor system resources, and even use plain English commands!
 
@@ -52,7 +52,7 @@ streamlit run streamlit_app.py
 
 * Realistic terminal experience in Python.
 * AI-driven commands for smarter interactions.
-* Cross-platform and hackathon-ready.
+* Cross-platform.
 
 ---
 
