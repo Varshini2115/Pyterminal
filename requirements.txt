@@ -1,0 +1,9 @@
+psutil
+prompt_toolkit
+streamlit
+pytest
+spacy
+python-Levenshtein
+colorama
+pygments
+pyreadline3; sys_platform == 'win32'
